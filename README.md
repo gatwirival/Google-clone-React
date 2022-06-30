@@ -4,11 +4,11 @@
 - material-ui icons
 - material-ui core
 ## Run locally
-clone the repo
+- clone the repo
 
-`npm install`
+- `npm install`
 
-`npm start`
+- `npm start`
 
 ## Getting Started with Create React App
 
