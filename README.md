@@ -1,7 +1,16 @@
-npm install --save react-router-dom
-material-ui icons
-material-ui core
-# Getting Started with Create React App
+## Prerequisites
+
+- react-router-dom
+- material-ui icons
+- material-ui core
+## Run locally
+clone the repo
+
+`npm install`
+
+`npm start`
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
